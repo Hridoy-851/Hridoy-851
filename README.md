@@ -2,7 +2,7 @@
 
 ### CSE Student | Aspiring Junior Network Engineer
 
-I'm a 4th-year Computer Science & Engineering student currently building my career toward **network engineering and network operations**.
+I'm a final-year Computer Science & Engineering student currently building my career toward **network engineering and network operations**.
 
 I'm focused on developing practical networking skills through **CCNA study, Cisco Packet Tracer labs, troubleshooting, and real-world network design projects**.
 
