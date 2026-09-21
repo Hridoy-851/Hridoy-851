@@ -1,16 +1,25 @@
 # Hi, I'm Md. Hridoy Sheikh 👋
 
-### Final-Year CSE Student | Networking & IT Infrastructure
+### 🌐 Final-Year CSE Student | Networking & IT Infrastructure
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hridoysheikh00/)
+[![GitHub](https://img.shields.io/badge/GitHub-Hridoy--851-black?logo=github\&logoColor=white)](https://github.com/Hridoy-851)
+[![CCNA](https://img.shields.io/badge/CCNA-Preparing-red?logo=cisco\&logoColor=white)](#)
+[![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-Labs-1BA0D7?logo=cisco\&logoColor=white)](#)
 
 I'm a final-year **Computer Science & Engineering student at Northern University Bangladesh**, building my career toward **network engineering, NOC operations, and IT infrastructure**.
 
 I'm developing practical networking skills through **CCNA preparation, Cisco Packet Tracer labs, network troubleshooting, and hands-on infrastructure projects**.
 
+### 🚀 Current Focus
+
+**CCNA Preparation** • **Cisco Networking** • **Network Troubleshooting** • **Packet Tracer Projects** • **IT Infrastructure**
+
 ---
 
 ## 🌐 Currently Learning
 
-* **CCNA**
+* CCNA
 * IPv4 Addressing & Subnetting
 * Cisco IOS
 * Switching & Routing
@@ -28,7 +37,7 @@ I'm developing practical networking skills through **CCNA preparation, Cisco Pac
 
 ### 🔹 1. Small Office Network — ✅ Completed
 
-A Cisco Packet Tracer network focused on fundamental enterprise networking concepts.
+A Cisco Packet Tracer project focused on fundamental enterprise networking concepts.
 
 **Implemented:**
 
@@ -65,7 +74,7 @@ A multi-router network designed to practice dynamic routing and OSPF operations.
 
 ### 🔹 3. Secure Enterprise Network — ✅ Completed
 
-A segmented enterprise network designed with security, routing, and infrastructure management in mind.
+A segmented enterprise network designed with routing, security, and infrastructure management in mind.
 
 **Implemented:**
 
@@ -87,7 +96,7 @@ A segmented enterprise network designed with security, routing, and infrastructu
 
 ### 🔹 4. Network Troubleshooting Lab — 🔄 Planned
 
-A dedicated lab for developing structured troubleshooting skills.
+A dedicated lab focused on developing structured network troubleshooting skills.
 
 **Focus areas:**
 
@@ -126,6 +135,14 @@ Software Testing / QA experience through university software development project
 
 ---
 
+## 📊 GitHub Activity
+
+[![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hridoy-851\&show_icons=true\&hide_border=true\&rank_icon=github)](https://github.com/Hridoy-851)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hridoy-851\&layout=compact\&hide_border=true)](https://github.com/Hridoy-851)
+
+---
+
 ## 🎯 Career Goal
 
 I'm currently seeking opportunities such as:
@@ -157,4 +174,4 @@ I'm following a structured **6-month networking career roadmap**, with CCNA prep
 
 ⭐ Thanks for visiting my profile!
 
-I'm continuously learning, building, and documenting my journey into networking.
+I'm continuously learning, building, troubleshooting, and documenting my journey into networking.
