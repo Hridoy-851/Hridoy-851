@@ -1,108 +1,160 @@
 # Hi, I'm Md. Hridoy Sheikh 👋
 
-### CSE Student | Aspiring Junior Network Engineer
+### Final-Year CSE Student | Networking & IT Infrastructure
 
-I'm a final-year Computer Science & Engineering student currently building my career toward **network engineering and network operations**.
+I'm a final-year **Computer Science & Engineering student at Northern University Bangladesh**, building my career toward **network engineering, NOC operations, and IT infrastructure**.
 
-I'm focused on developing practical networking skills through **CCNA study, Cisco Packet Tracer labs, troubleshooting, and real-world network design projects**.
+I'm developing practical networking skills through **CCNA preparation, Cisco Packet Tracer labs, network troubleshooting, and hands-on infrastructure projects**.
 
 ---
 
 ## 🌐 Currently Learning
 
-- CCNA
-- IPv4 & Subnetting
-- Cisco IOS
-- Switching & Routing
-- VLAN & Trunking
-- Inter-VLAN Routing
-- STP
-- OSPF
-- ACL & Network Security
-- Network Troubleshooting
-- Linux Fundamentals
+* **CCNA**
+* IPv4 Addressing & Subnetting
+* Cisco IOS
+* Switching & Routing
+* VLANs & Trunking
+* Inter-VLAN Routing
+* STP
+* OSPF
+* ACLs & Network Security
+* Network Troubleshooting
+* Linux Fundamentals
 
 ---
 
 ## 🧪 Networking Projects
 
-### 1. Small Office Network
+### 🔹 1. Small Office Network — ✅ Completed
 
-Currently building with Cisco Packet Tracer:
+A Cisco Packet Tracer network focused on fundamental enterprise networking concepts.
 
-- VLANs
-- Trunking
-- Inter-VLAN Routing
-- DHCP
-- IPv4
+**Implemented:**
 
-### 2. Multi-Site Enterprise Network
+* VLANs
+* Router-on-a-Stick
+* Inter-VLAN Routing
+* DHCP
+* SSH Management
+* Port Security
+* Layer 2 Security
+* Network Verification & Troubleshooting
 
-Coming soon...
+🔗 [View Project](https://github.com/Hridoy-851/small-office-network)
 
-- Static Routing
-- OSPF
-- WAN
-- Multi-site connectivity
+---
 
-### 3. Secure Enterprise Network
+### 🔹 2. Multi-Router OSPF Network — ✅ Completed
 
-Coming soon...
+A multi-router network designed to practice dynamic routing and OSPF operations.
 
-- ACL
-- SSH
-- Port Security
-- Network Segmentation
+**Implemented:**
 
-### 4. Network Troubleshooting Lab
+* OSPF Area 0
+* Router IDs
+* OSPF Neighbor Relationships
+* Passive Interfaces
+* Route Verification
+* End-to-End Connectivity
+* OSPF Troubleshooting
 
-Coming soon...
+🔗 [View Project](https://github.com/Hridoy-851/Multi-router-network)
 
-- Layer 1/2/3 troubleshooting
-- Network incidents
-- Root-cause analysis
+---
 
-### 5. Enterprise Network Capstone
+### 🔹 3. Secure Enterprise Network — ✅ Completed
 
-Coming soon...
+A segmented enterprise network designed with security, routing, and infrastructure management in mind.
+
+**Implemented:**
+
+* VLAN Segmentation
+* Trunking
+* Inter-VLAN Routing
+* DHCP
+* NAT
+* ACLs
+* SSH Management
+* Port Security
+* Management VLAN
+* Network Troubleshooting
+* Verification & Documentation
+
+🔗 [View Project](https://github.com/Hridoy-851/Secure-enterprise-network)
+
+---
+
+### 🔹 4. Network Troubleshooting Lab — 🔄 Planned
+
+A dedicated lab for developing structured troubleshooting skills.
+
+**Focus areas:**
+
+* Layer 1 / Layer 2 / Layer 3 Troubleshooting
+* Connectivity Issues
+* VLAN & Trunk Problems
+* Routing Failures
+* DHCP Issues
+* Root-Cause Analysis
+
+---
+
+### 🔹 5. Enterprise Network Capstone — 🔄 Planned
+
+A larger networking project combining routing, switching, security, troubleshooting, and documentation.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-**Networking**
+### Networking
 
-Cisco Packet Tracer • Cisco IOS • TCP/IP • IPv4 • VLAN • OSPF
+`Cisco Packet Tracer` `Cisco IOS` `TCP/IP` `IPv4` `VLAN` `STP` `OSPF` `ACL`
 
-**Tools**
+### Tools
 
-Git • GitHub • Linux
+`Git` `GitHub` `Linux`
 
-**Background**
+### Programming Background
 
-Software Testing / QA • CSE
+`C` `C++` `Java` `Python`
+
+### Additional Experience
+
+Software Testing / QA experience through university software development projects.
 
 ---
 
 ## 🎯 Career Goal
 
-My current goal is to become a **Junior Network Engineer / NOC Engineer / Network Support Engineer** and continue developing practical skills in networking, infrastructure, and network security.
+I'm currently seeking opportunities such as:
+
+* **Network Intern**
+* **NOC Intern**
+* **Network Support**
+* **IT Support**
+* **Junior Network Engineer**
+
+My goal is to continue developing practical skills in **networking, IT infrastructure, troubleshooting, and network security** while contributing to real-world technical environments.
 
 ---
 
 ## 📈 Current Focus
 
-> Learn → Build → Break → Troubleshoot → Document → Improve
+> **Learn → Build → Troubleshoot → Document → Improve**
 
-I'm currently working through a structured 6-month networking journey and building practical projects along the way.
+I'm following a structured **6-month networking career roadmap**, with CCNA preparation, hands-on Packet Tracer projects, GitHub documentation, and continuous practical learning.
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: Coming soon
-- GitHub: https://github.com/Hridoy-851
+* 💼 **LinkedIn:** [Md. Hridoy Sheikh](https://www.linkedin.com/in/hridoysheikh00/)
+* 🐙 **GitHub:** [Hridoy-851](https://github.com/Hridoy-851)
 
 ---
 
 ⭐ Thanks for visiting my profile!
+
+I'm continuously learning, building, and documenting my journey into networking.
